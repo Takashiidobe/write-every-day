@@ -5,6 +5,7 @@
 - 2024-02-05: [How to write an app and not hate yourself](./1.md)
 - 2024-02-05: [Ideas I miss: Microkernels](./2.md)
 - 2024-02-05: [Higher level languages always win](./3.md)
+- 2024-02-06: [Great Design](./4.md)
 
 ## Misc
 
