@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-pandoc-rss $(find . -type f -name "*.html")> site/rss.xml
+pandoc-rss $(find . -type f -name "*.html" | sort -g -t '/' -k 3 -r)> site/rss.xml
 
 PREFIX=$(cat <<-END
   <?xml version="1.0" encoding="UTF-8" ?>
@@ -8,7 +8,7 @@ PREFIX=$(cat <<-END
   <rss version="2.0">
   <channel>
     <title>Write every day</title>
-    <link>https://write.takashiidobe.com</link>
+    <link>https://writing.takashiidobe.com</link>
   <description>Writing every day for practice</description>
 END
 )

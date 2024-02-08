@@ -128,10 +128,10 @@
 								<xsl:value-of select="count(image:image)"/>
 							</td>
 							<td>
-								<xsl:value-of select="substring(sitemap:pubdate,2,10)"/>
+								<xsl:value-of select="substring(sitemap:pubdate,0,11)"/>
 							</td>
 							<td>
-								<xsl:value-of select="substring(sitemap:lastmod,2,10)"/>
+								<xsl:value-of select="substring(sitemap:lastmod,0,11)"/>
 							</td>
 						</tr>
 					</xsl:for-each>

@@ -73,8 +73,8 @@
         </xsl:for-each>
         <nav class="footer">
           <ol>
-            <li><a href="https://write.takashiidobe.com/">Back to site</a></li>
-            <li><a href="https://write.takashiidobe.com/sitemap.xml">Sitemap</a></li>
+            <li><a href="https://writing.takashiidobe.com/">Back to site</a></li>
+            <li><a href="https://writing.takashiidobe.com/sitemap.xml">Sitemap</a></li>
             <li><a href="https://takashiidobe.com/resume">Resume</a></li>
             <li><a href="https://notes.takashiidobe.com">My Notes</a></li>
             <li><a href="https://links.takashiidobe.com">My Links</a></li>
