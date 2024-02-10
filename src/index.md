@@ -8,6 +8,7 @@
 - 2024-02-06: [Great Design](./4.md)
 - 2024-02-07: [Karma Police: the resurgence of attention](./5.md)
 - 2024-02-08: [Offline learning: Tools of the trade](./6.md)
+- 2024-02-09: [Why you should read position papers](./7.md)
 
 ## Misc
 
