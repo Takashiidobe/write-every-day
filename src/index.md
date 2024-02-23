@@ -11,6 +11,7 @@
 - 2024-02-09: [Why you should read position papers](./7.md)
 - 2024-02-10: [To master your tools, make them](./8.md)
 - 2024-02-15: [Improve vs Explore](./9.md)
+- 2024-02-23: [Computability and consciousness](./10.md)
 
 ## Misc
 
