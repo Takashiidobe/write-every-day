@@ -12,6 +12,7 @@
 - 2024-02-10: [To master your tools, make them](./8.md)
 - 2024-02-15: [Improve vs Explore](./9.md)
 - 2024-02-23: [Computability and consciousness](./10.md)
+- 2024-02-29: [Boring Technology](./11.md)
 
 ## Misc
 
