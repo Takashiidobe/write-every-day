@@ -14,6 +14,7 @@
 - 2024-02-23: [Computability and consciousness](./10.md)
 - 2024-02-29: [Boring Technology](./11.md)
 - 2024-03-02: [Beautiful Programs](./12.md)
+- 2024-03-06: [Math is fundamental](./13.md)
 
 ## Misc
 
