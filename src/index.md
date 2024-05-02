@@ -17,6 +17,7 @@
 - 2024-03-06: [Math is fundamental](./13.md)
 - 2024-03-25: [Ways to Test](./14.md)
 - 2024-04-21: [Pointer Complications](./15.md)
+- 2024-05-02: [Quantity vs Quality](./16.md)
 
 ## Misc
 
