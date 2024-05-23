@@ -19,6 +19,7 @@
 - 2024-04-21: [Pointer Complications](./15.md)
 - 2024-05-02: [Quantity vs Quality](./16.md)
 - 2024-05-23: [The Interpreter Pattern](./17.md)
+- 2024-05-23: [Learning: A ChatGPT Based Approach](./18.md)
 
 ## Misc
 
