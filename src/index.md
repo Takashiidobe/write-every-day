@@ -20,6 +20,7 @@
 - 2024-05-02: [Quantity vs Quality](./16.md)
 - 2024-05-23: [The Interpreter Pattern](./17.md)
 - 2024-05-23: [Learning: A ChatGPT Based Approach](./18.md)
+- 2024-06-20: [Are Coding Bootcamps Dead?](./19.md)
 
 ## Misc
 
